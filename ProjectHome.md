@@ -1,0 +1,1 @@
+Epicenter is a simple yet powerful remote administration tool that allows users to manage their computers from a distance.
